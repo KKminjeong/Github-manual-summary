@@ -38,7 +38,7 @@ git reset --hard 커밋코드
 #### 서버(Github)에서 로컬(내컴퓨터)로 가져오기
 
 ```
-git clone repository 주소 
+git clone repository Github 주소 
 ```
 
 * Github repository 주소는 Github repository 클릭 후 "code" 버튼을 누른 뒤 복사 버튼 누르면 된다.
